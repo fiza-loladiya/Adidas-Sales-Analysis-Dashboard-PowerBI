@@ -3,9 +3,11 @@
 This project is a **Power BI Sales & Profitability Dashboard** built using an **Adidas sales dataset (Kaggle)**.  
 The goal was to turn raw transactional data into **decision-ready insights** around **sales trends, operating profit, operating margin %, units sold, pricing**, and performance across **regions, states, products, retailers, and sales methods**. 
 
-## 📌 Project Overview
 
-[Adidas Sales Analysis](Adidas%20Sales%20Analysis.png)
+## 📸 Dashboard Preview
+![Adidas Sales Dashboard](Adidas%20Sales%20Analysis.png)
+
+## 📌 Project Overview
 
 A big sales number looks impressive—but the real question is: **where is profit actually coming from?**
 
