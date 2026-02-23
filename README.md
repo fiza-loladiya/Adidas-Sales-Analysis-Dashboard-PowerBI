@@ -5,7 +5,7 @@ The goal was to turn raw transactional data into **decision-ready insights** aro
 
 ## 📌 Project Overview
 
-![](Adidas%20Sales%20Analysis.png)
+[Adidas Sales Analysis](Adidas%20Sales%20Analysis.pdf)
 
 A big sales number looks impressive—but the real question is: **where is profit actually coming from?**
 
